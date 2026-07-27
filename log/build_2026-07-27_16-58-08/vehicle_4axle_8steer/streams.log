@@ -1,0 +1,45 @@
+[0.020s] Invoking command in '/home/vboxuser/fishros_ros2/pratical_projects/build/vehicle_4axle_8steer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/vboxuser/fishros_ros2/pratical_projects/build/vehicle_4axle_8steer -- -j8 -l8
+[0.141s] Invoked command in '/home/vboxuser/fishros_ros2/pratical_projects/build/vehicle_4axle_8steer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/vboxuser/fishros_ros2/pratical_projects/build/vehicle_4axle_8steer -- -j8 -l8
+[0.185s] Invoking command in '/home/vboxuser/fishros_ros2/pratical_projects/build/vehicle_4axle_8steer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/vboxuser/fishros_ros2/pratical_projects/build/vehicle_4axle_8steer
+[0.207s] -- Install configuration: ""
+[0.207s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/urdf
+[0.208s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/urdf/vehicle_4axle_8steer.urdf
+[0.208s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/launch
+[0.208s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/launch/display.launch.py
+[0.208s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/launch/__pycache__
+[0.212s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/launch/__pycache__/gb29_drive.launch.cpython-312.pyc
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/launch/__pycache__/display.launch.cpython-312.pyc
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/launch/gb29_drive.launch.py
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/rviz
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/rviz/display.rviz
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/vehicle_4axle
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/vehicle_4axle/steer_calc.py
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/vehicle_4axle/__pycache__
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/vehicle_4axle/__pycache__/steer_calc.cpython-312.pyc
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/vehicle_4axle/__pycache__/__init__.cpython-312.pyc
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/vehicle_4axle/__init__.py
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/steering_controller.py
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/odometry_publisher.py
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/vehicle_dynamics.py
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/remote_controller.py
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/gb29_controller.py
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/gb29_test.py
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/demo_steer.py
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer/path_tracker.py
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/environment/pythonpath.dsv
+[0.213s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/ament_index/resource_index/package_run_dependencies/vehicle_4axle_8steer
+[0.214s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/ament_index/resource_index/parent_prefix_path/vehicle_4axle_8steer
+[0.214s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/environment/ament_prefix_path.sh
+[0.214s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/environment/ament_prefix_path.dsv
+[0.214s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/environment/path.sh
+[0.214s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/environment/path.dsv
+[0.214s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/local_setup.bash
+[0.214s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/local_setup.sh
+[0.215s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/local_setup.zsh
+[0.215s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/local_setup.dsv
+[0.215s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/package.dsv
+[0.215s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/ament_index/resource_index/packages/vehicle_4axle_8steer
+[0.215s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/cmake/vehicle_4axle_8steerConfig.cmake
+[0.216s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/cmake/vehicle_4axle_8steerConfig-version.cmake
+[0.216s] -- Up-to-date: /home/vboxuser/fishros_ros2/pratical_projects/install/vehicle_4axle_8steer/share/vehicle_4axle_8steer/package.xml
+[0.216s] Invoked command in '/home/vboxuser/fishros_ros2/pratical_projects/build/vehicle_4axle_8steer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/vboxuser/fishros_ros2/pratical_projects/build/vehicle_4axle_8steer
