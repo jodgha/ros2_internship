@@ -1,0 +1,26 @@
+digraph G {
+"base_link" -> "axle_1_link"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"base_link" -> "axle_2_link"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"base_link" -> "axle_3_link"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"base_link" -> "axle_4_link"[label=" Broadcaster: default_authority\nAverage rate: 10000.0\nBuffer length: 0.0\nMost recent transform: 0.0\nOldest transform: 0.0\n"];
+"axle_1_link" -> "axle1_left_kingpin_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle1_left_kingpin_link" -> "axle1_left_wheel_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle_1_link" -> "axle1_right_kingpin_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle1_right_kingpin_link" -> "axle1_right_wheel_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle_2_link" -> "axle2_left_kingpin_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle2_left_kingpin_link" -> "axle2_left_wheel_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle_2_link" -> "axle2_right_kingpin_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle2_right_kingpin_link" -> "axle2_right_wheel_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle_3_link" -> "axle3_left_kingpin_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle3_left_kingpin_link" -> "axle3_left_wheel_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle_3_link" -> "axle3_right_kingpin_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle3_right_kingpin_link" -> "axle3_right_wheel_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle_4_link" -> "axle4_left_kingpin_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle4_left_kingpin_link" -> "axle4_left_wheel_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle_4_link" -> "axle4_right_kingpin_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+"axle4_right_kingpin_link" -> "axle4_right_wheel_link"[label=" Broadcaster: default_authority\nAverage rate: 16.866\nBuffer length: 4.98\nMost recent transform: 1782301730.656776\nOldest transform: 1782301725.676381\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1782301730.6658866"[ shape=plaintext ] ;
+}->"base_link";
+}
