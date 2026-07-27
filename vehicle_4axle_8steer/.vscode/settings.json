@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}",
+        "${workspaceFolder}/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer"
+    ],
+    "python.autoComplete.extraPaths": [
+        "${workspaceFolder}",
+        "${workspaceFolder}/install/vehicle_4axle_8steer/lib/vehicle_4axle_8steer"
+    ]
+}
