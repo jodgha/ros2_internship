@@ -1,0 +1,4 @@
+source;share/vehicle_4axle_8steer/local_setup.bash
+source;share/vehicle_4axle_8steer/local_setup.dsv
+source;share/vehicle_4axle_8steer/local_setup.sh
+source;share/vehicle_4axle_8steer/local_setup.zsh
